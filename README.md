@@ -1,2 +1,2 @@
-# Rqinbow-Song
+# Rainbow-Song
 Songs about rainbows
